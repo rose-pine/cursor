@@ -17,12 +17,17 @@ Based on <https://github.com/ful1e5/BreezeX_Cursor>
 
 ### 🐧 Linux
 
+Arch:
+
+```sh
+yay -S rose-pine-cursor
+```
+
+Others:
+
 1. Download here: <https://github.com/rose-pine/cursor/releases/download/v1.0.1/BreezeX-RosePine-Linux.tar.xz>
 2. `tar -xvf ~/Downloads/BreezeX-RoséPine.tar.xz -C ~/.local/share/icons`
-
-3a. Choose the cursor theme with GNOME TWeaks, nwg-look, lxappearance, etc
-
-3b. Or, install manually: <https://wiki.archlinux.org/title/Cursor_themes#Configuration>
+3. Choose the cursor theme with GNOME TWeaks, nwg-look, lxappearance, etc. Or, install manually: <https://wiki.archlinux.org/title/Cursor_themes#Configuration>
 
 ### 🪟 Windows
 
@@ -31,7 +36,7 @@ Based on <https://github.com/ful1e5/BreezeX_Cursor>
 
 ## Gallery
 
-![Rosé Pine with App](https://user-images.githubusercontent.com/1474821/166155319-06796439-95a7-4aea-910e-927c1f24518e.png)
+![Cursor showcase](https://github.com/rose-pine/cursor/assets/44733677/0c4f6823-48d5-4ec1-8e1c-201b22463ea1)
 
 ## Thanks to
 
