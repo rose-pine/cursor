@@ -17,7 +17,7 @@ Based on <https://github.com/ful1e5/BreezeX_Cursor>
 
 ### 🐧 Linux
 
-1. Download here: <https://github.com/rose-pine/cursor/releases/download/v1.0.0/BreezeX-RosePine.tar.xz>
+1. Download here: <https://github.com/rose-pine/cursor/releases/download/v1.0.1/BreezeX-RosePine-Linux.tar.xz>
 2. `tar -xvf ~/Downloads/BreezeX-RoséPine.tar.xz -C ~/.local/share/icons`
 
 3a. Choose the cursor theme with GNOME TWeaks, nwg-look, lxappearance, etc
@@ -26,7 +26,7 @@ Based on <https://github.com/ful1e5/BreezeX_Cursor>
 
 ### 🪟 Windows
 
-1. Download here: <https://github.com/rose-pine/cursor/releases/download/v1.0.0/BreezeX-RosePine-Windows.zip>
+1. Download here: <https://github.com/rose-pine/cursor/releases/download/v1.0.1/BreezeX-RosePine-Windows.zip>
 2. <https://www.digitalcitizen.life/install-mouse-cursor-scheme-window/>
 
 ## Gallery
@@ -48,6 +48,6 @@ Requirements:
 ```sh
 git clone https://github.com/rose-pine/cursor/
 cd cursor
-bunx ctgen build.toml -d 'bitmaps/BreezeX-RoséPine' -n 'BreezeX-RoséPine' -c 'Rosé Pine BreezeX cursors.'
-ctgen build.toml -d 'bitmaps/BreezeX-RoséPine' -n 'BreezeX-RoséPine' -c 'Rosé Pine BreezeX cursors.'
+bunx ctgen build.toml -d 'bitmaps/BreezeX-RosePine' -n 'BreezeX-RosePine' -c 'Rosé Pine BreezeX cursors.'
+ctgen build.toml -d 'bitmaps/BreezeX-RosePine' -n 'BreezeX-RosePine' -c 'Rosé Pine BreezeX cursors.'
 ```
