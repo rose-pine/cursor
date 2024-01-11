@@ -13,9 +13,17 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+### 🐧 Linux
+
+1. Download here:
+2. `tar -xvf ~/Downloads/BreezeX-RoséPine.tar.xz -C ~/.local/share/icons`
+3a. Choose the cursor theme with GNOME TWeaks, nwg-look, lxappearance, etc
+3b. Or, install manually: <https://wiki.archlinux.org/title/Cursor_themes#Configuration>
+
+### 🪟 Windows
+
+1. Download here: 
+2. <https://www.digitalcitizen.life/install-mouse-cursor-scheme-window/>
 
 ## Gallery
 
@@ -23,25 +31,4 @@
 
 ## Thanks to
 
-- [You, it's you!](https://github.com/<username>)
-
-## Contributing
-
-> Prefer using [@rose-pine/build](https://github.com/rose-pine/build) when possible
-
-Modify `template.json` using Rosé Pine variables, then build variants:
-
-```sh
-npx @rose-pine/build@latest
-```
-
-## Style guide
-
-> Be sure to remove this section 😌
-
-- Lowercase meta files, eg. `readme.md`
-- Repo name should be the simplest version of the app name, eg. iterm instead of iTerm2
-- Add a description and topics to automatically show the theme on [rosepinetheme.com/themes](https://rosepinetheme.com/themes)
-    - Description should read "Soho vibes for App" where "App" is the display name
-    - Topics should include [existing categories](https://rosepinetheme.com/themes)
-    - Generate and upload social image via [Rosé Pine Images](https://rose-pine-images.vercel.app)
+- [ThatOneCalculator](https://github.com/thatonecalculator)
