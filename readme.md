@@ -20,19 +20,26 @@ Based on <https://github.com/ful1e5/BreezeX_Cursor>
 Arch:
 
 ```sh
+# Installs both Rosé Pine and Rosé Pine Dawn
 yay -S rose-pine-cursor
 ```
 
 Others:
 
-1. Download here: <https://github.com/rose-pine/cursor/releases/download/v1.0.1/BreezeX-RosePine-Linux.tar.xz>
-2. `tar -xvf ~/Downloads/BreezeX-RoséPine.tar.xz -C ~/.local/share/icons`
+1. Download:
+   - Rosé Pine: <https://github.com/rose-pine/cursor/releases/download/v1.1.0/BreezeX-RosePine-Linux.tar.xz>
+   - Rosé Pine Dawn: <https://github.com/rose-pine/cursor/releases/download/v1.1.0/BreezeX-RosePineDawn-Linux.tar.xz>
+2. Extract:
+   - Rosé Pine: `tar -xvf ~/Downloads/BreezeX-RosePine-Linux.tar.xz -C ~/.local/share/icons`
+   - Rosé Pine Dawn: `tar -xvf ~/Downloads/BreezeX-RosePineDawn-Linux.tar.xz -C ~/.local/share/icons`
 3. Choose the cursor theme with GNOME TWeaks, nwg-look, lxappearance, etc. Or, install manually: <https://wiki.archlinux.org/title/Cursor_themes#Configuration>
 
 ### 🪟 Windows
 
-1. Download here: <https://github.com/rose-pine/cursor/releases/download/v1.0.1/BreezeX-RosePine-Windows.zip>
-2. <https://www.digitalcitizen.life/install-mouse-cursor-scheme-window/>
+1. Download:
+   - Rosé Pine: <https://github.com/rose-pine/cursor/releases/download/v1.1.0/BreezeX-RosePine-Windows.zip>
+   - Rosé Pine Dawn: <https://github.com/rose-pine/cursor/releases/download/v1.1.0/BreezeX-RosePineDawn-Windows.zip>
+2. Follow the instructions here: <https://www.digitalcitizen.life/install-mouse-cursor-scheme-window/>
 
 ## Gallery
 
@@ -47,6 +54,7 @@ Others:
 To build from source:
 
 Requirements:
+
 - Bun: <https://bun.sh>
 - Clickgen: `pip install clickgen`
 
@@ -54,5 +62,7 @@ Requirements:
 git clone https://github.com/rose-pine/cursor/
 cd cursor
 bunx cbmp -d 'svg' -n 'BreezeX-RoséPine' -bc '#191724' -oc '#e0def4'
-ctgen build.toml -d 'bitmaps/BreezeX-RosePine' -n 'BreezeX-RosePine' -c 'Rosé Pine BreezeX cursors.'
+bunx cbmp -d 'svg' -n 'BreezeX-RoséPineDawn' -bc '#faf4ed' -oc '#575279'
+ctgen build.toml -d 'bitmaps/BreezeX-RoséPine' -n 'BreezeX-RoséPine' -c 'Rosé Pine BreezeX cursors.'
+ctgen build.toml -d 'bitmaps/BreezeX-RoséPineDawn' -n 'BreezeX-RoséPineDawn' -c 'Rosé Pine Dawn BreezeX cursors.'
 ```
