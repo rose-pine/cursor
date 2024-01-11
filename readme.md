@@ -19,7 +19,9 @@ Based on <https://github.com/ful1e5/BreezeX_Cursor>
 
 1. Download here: <https://github.com/rose-pine/cursor/releases/download/v1.0.0/BreezeX-RosePine.tar.xz>
 2. `tar -xvf ~/Downloads/BreezeX-RoséPine.tar.xz -C ~/.local/share/icons`
+
 3a. Choose the cursor theme with GNOME TWeaks, nwg-look, lxappearance, etc
+
 3b. Or, install manually: <https://wiki.archlinux.org/title/Cursor_themes#Configuration>
 
 ### 🪟 Windows

@@ -7,8 +7,6 @@ website = 'https://www.github.com/ful1e5/BreezeX_Cursor'
 bitmaps_dir = '' # This config will assigned with `ctgen -d <path>`
 out_dir = 'themes'
 platforms = ['x11', 'windows']
-x11_sizes = [22, 24, 28, 32, 40, 48, 56, 64, 72, 80, 88, 96]
-win_size = 32
 
 [cursors]
 
