@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="200"
+   height="200"
+   viewBox="0 0 200 200"
+   fill="none"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="dnd_no_drop.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.18"
+     inkscape:cx="100"
+     inkscape:cy="99.576271"
+     inkscape:window-width="1735"
+     inkscape:window-height="691"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <g
+     filter="url(#filter0_d)"
+     id="g1">
+    <rect
+       x="20"
+       y="20"
+       width="160"
+       height="160"
+       rx="50"
+       fill="#ED1515"
+       id="rect1"
+       style="fill:#eb6f92;fill-opacity:1" />
+  </g>
+  <path
+     d="M133.077 66.0625C118.183 51.9343 95.4128 48.5905 76.7041 59.3696C57.9952 70.149 49.5119 91.4997 54.3259 111.435L133.077 66.0625Z"
+     fill="white"
+     id="path1"
+     style="fill:#e0def4;fill-opacity:1" />
+  <path
+     d="M146.674 89.5654L67.9234 134.938C82.8168 149.066 105.587 152.409 124.296 141.63C143.004 130.851 151.488 109.501 146.674 89.5654Z"
+     fill="white"
+     id="path2"
+     style="fill:#e0def4;fill-opacity:1" />
+  <defs
+     id="defs4">
+    <filter
+       id="filter0_d"
+       x="16"
+       y="20"
+       width="168"
+       height="170"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood2" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         id="feColorMatrix2" />
+      <feOffset
+         dy="6"
+         id="feOffset2" />
+      <feGaussianBlur
+         stdDeviation="2"
+         id="feGaussianBlur2" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"
+         id="feColorMatrix3" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow"
+         id="feBlend3" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="effect1_dropShadow"
+         result="shape"
+         id="feBlend4" />
+    </filter>
+  </defs>
+</svg>

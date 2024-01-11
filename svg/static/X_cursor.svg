@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="200"
+   height="200"
+   viewBox="0 0 200 200"
+   fill="none"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="X_cursor.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.668772"
+     inkscape:cx="157.60092"
+     inkscape:cy="80.598188"
+     inkscape:window-width="1735"
+     inkscape:window-height="691"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <g
+     filter="url(#filter0_d)"
+     id="g1">
+    <rect
+       x="20"
+       y="20"
+       width="160"
+       height="160"
+       rx="50"
+       fill="url(#paint0_linear)"
+       id="rect1" />
+  </g>
+  <path
+     d="M97.3333 66.0007L97.167 66.167C96.0921 66.2262 95.05 66.375 94.0003 66.5003L101.5 77.6669C102.836 74.2349 106.33 72.2322 110.334 72.3336C111.216 72.3549 112.085 72.6125 113 72.8333C113.111 72.8599 113.223 72.8013 113.334 72.8333C114.547 73.1901 115.693 73.6951 116.834 74.1666L119.5 70C113.722 67.4069 107.097 66 100 66C99.171 66 98.3171 66.1272 97.5003 66.1667L97.3333 66.0007ZM123.667 72.3339L121.167 76.3339C129.279 81.1751 134.667 89.0527 134.667 98.0003C134.667 112.728 120.34 124.667 102.667 124.667C84.9935 124.667 70.6667 112.728 70.6667 98.0003C70.6667 91.671 73.3878 85.9062 77.8333 81.3338L73.1667 74.3339C65.0789 80.1611 60 88.585 60 98.0003C60 115.673 77.9086 130 100 130C122.091 130 140 115.673 140 98.0003C140 87.4291 133.544 78.1606 123.667 72.3339Z"
+     fill="white"
+     id="path1"
+     style="fill:#f2e9e1;fill-opacity:1" />
+  <path
+     d="M140 136H118.5L97 104L129.25 56H134.625L110.438 93.3333L140 136Z"
+     fill="white"
+     id="path2"
+     style="fill:#f2e9e1;fill-opacity:1" />
+  <path
+     d="M60 56H81L102 88L70.5 136H65.25L88.875 98.6667L60 56Z"
+     fill="white"
+     id="path3"
+     style="fill:#f2e9e1;fill-opacity:1" />
+  <defs
+     id="defs6">
+    <filter
+       id="filter0_d"
+       x="16"
+       y="20"
+       width="168"
+       height="170"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood3" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         id="feColorMatrix3" />
+      <feOffset
+         dy="6"
+         id="feOffset3" />
+      <feGaussianBlur
+         stdDeviation="2"
+         id="feGaussianBlur3" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"
+         id="feColorMatrix4" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow"
+         id="feBlend4" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="effect1_dropShadow"
+         result="shape"
+         id="feBlend5" />
+    </filter>
+    <linearGradient
+       id="paint0_linear"
+       x1="100"
+       y1="20"
+       x2="100"
+       y2="180"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#F7A61F"
+         id="stop5"
+         offset="0"
+         style="stop-color:#ea9d34;stop-opacity:1;" />
+      <stop
+         offset="1"
+         stop-color="#EF6501"
+         id="stop6"
+         style="stop-color:#d7827e;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+</svg>
