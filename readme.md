@@ -53,6 +53,6 @@ Requirements:
 ```sh
 git clone https://github.com/rose-pine/cursor/
 cd cursor
-bunx ctgen build.toml -d 'bitmaps/BreezeX-RosePine' -n 'BreezeX-RosePine' -c 'Rosé Pine BreezeX cursors.'
+bunx cbmp -d 'svg' -n 'BreezeX-RoséPine' -bc '#191724' -oc '#e0def4'
 ctgen build.toml -d 'bitmaps/BreezeX-RosePine' -n 'BreezeX-RosePine' -c 'Rosé Pine BreezeX cursors.'
 ```
