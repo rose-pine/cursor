@@ -34,3 +34,18 @@ Based on <https://github.com/ful1e5/BreezeX_Cursor>
 ## Thanks to
 
 - [ThatOneCalculator](https://github.com/thatonecalculator)
+
+## Contributing
+
+To build from source:
+
+Requirements:
+- Bun: <https://bun.sh>
+- Clickgen: `pip install clickgen`
+
+```sh
+git clone https://github.com/rose-pine/cursor/
+cd cursor
+bunx ctgen build.toml -d 'bitmaps/BreezeX-RoséPine' -n 'BreezeX-RoséPine' -c 'Rosé Pine BreezeX cursors.'
+ctgen build.toml -d 'bitmaps/BreezeX-RoséPine' -n 'BreezeX-RoséPine' -c 'Rosé Pine BreezeX cursors.'
+```
