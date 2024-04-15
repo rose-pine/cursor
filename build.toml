@@ -104,7 +104,7 @@ x11_symlinks = ["forbidden", "not-allowed"]
 [cursors.dnd_no_drop]
 png = 'dnd_no_drop.png'
 x11_name = 'dnd_no_drop'
-win_name = 'Unavailiable'
+win_name = 'Unavailable'
 x11_symlinks = [
   "03b6e0fcb3499374a867c041f52298f0",
   "circle",
